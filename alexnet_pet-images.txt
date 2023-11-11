@@ -1,0 +1,17 @@
+Command Line Arguments:
+     dir = pet_images/ 
+    arch = alexnet 
+ dogfile = dognames.txt
+
+Pet Image Label Dictionary has 26 key-value pairs.
+Below are 10 of them:
+ 1 key:                  classifier.py  label:                 classifier
+ 2 key:               print_results.py  label:              print_results
+ 3 key:      adjust_results4_isadog.py  label:     adjust_results4_isadog
+ 4 key:        get_input_args_hints.py  label:       get_input_args_hints
+ 5 key:   run_models_batch_uploaded.sh  label:  run_models_batch_uploaded
+ 6 key: calculates_results_stats_hints.py  label: calculates_results_stats_hints
+ 7 key:         alexnet_pet-images.txt  label:         alexnet_pet-images
+ 8 key:             classify_images.py  label:            classify_images
+ 9 key:              get_pet_labels.py  label:             get_pet_labels
+10 key:         print_results_hints.py  label:        print_results_hints
